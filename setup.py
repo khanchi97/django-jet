@@ -28,7 +28,7 @@ def get_install_requires():
 
 setup(
     name='django-3-jet',
-    version='1.0.9',
+    version='1.0.10',
     description='Modern template for Django-3 admin interface with improved functionality',
     long_description=read('README.rst'),
     author='Denis Kildishev',
